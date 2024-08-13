@@ -1,0 +1,105 @@
+
+.bg-container {
+    height: 100vh;
+    background-size: cover;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+    font-family: "Roboto";
+    padding: 15px;
+}
+
+.first-head {
+    color: #323f4b;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.first-image {
+    height: 90px;
+    width: 150px;
+}
+
+.first-card {
+    background-color: #0967d219;
+    margin-top: 20px;
+    padding: 18px;
+    border-radius: 6px;
+}
+
+.card-image {
+    height: 50px;
+    width: 50px;
+
+}
+
+.card-head {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card-para {
+    color: #707070;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.ccard {
+    margin-left: 20px;
+}
+
+.side-headings {
+    color: #323f4b;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.green {
+    background-color: #3ebd93;
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px;
+
+}
+
+.paras {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.red {
+    background-color: #e668a7;
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px;
+}
+
+.blue {
+    background-color: #a368fc;
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px;
+}
+
+.second-card {
+    background-color: #e12d3919;
+    margin-top: 20px;
+    padding: 18px;
+    border-radius: 6px;
+}
+
+.button {
+    border-radius: 8px;
+    height: 32px;
+    width: 90px;
+    font-size: 10px;
+}
